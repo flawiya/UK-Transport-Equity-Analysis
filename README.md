@@ -1,7 +1,6 @@
-# UK Annual Population Survey Analysis (2021) 📊
+# UK Annual Population Survey Analysis (2021)
 
-![R](https://img.shields.io/badge/Language-R-blue?style=flat-square&logo=r)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![alt text](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![alt text](https://img.shields.io/badge/tidyverse-%23150458.svg?style=for-the-badge&logo=r&logoColor=white) ![alt text](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![alt text](https://img.shields.io/badge/Quarto-%23475287.svg?style=for-the-badge&logo=quarto&logoColor=white) ![alt text](https://img.shields.io/badge/Statistics-Chi--Square_Testing-blue?style=for-the-badge) ![alt text](https://img.shields.io/badge/Methodology-Survey_Reweighting-orange?style=for-the-badge)
 
 > **Project Overview:** A statistical analysis of the UK Annual Population Survey (APS) dataset to explore relationships between [Variable A] and [Variable B], accounting for survey response bias.
 
